@@ -1,0 +1,6 @@
+Chelsea 5 10000000
+drogba 9 2000000
+lampard 11 1500000
+persie 10 3000000
+courtois 24 3000000
+idrissou 17 500000
