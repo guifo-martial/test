@@ -3,4 +3,6 @@
 
 void main()(
 print("bonjour Git");
+int a;
+a++;
 }
